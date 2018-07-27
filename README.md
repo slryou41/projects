@@ -1,2 +1,1 @@
-# pose_rnn
-Project page
+# Project page setup
